@@ -6,6 +6,9 @@ This repository contains a Jupyter notebook demonstrating how to monitor data qu
 
 - `Notebooks/`
   - `Monitoring_Data_Quality.ipynb`: The main notebook demonstrating data quality checks.
+- `data/`
+  - `updated_trial_Dataset1.csv`: The dataset used for validation.
+  - `cities.txt`: A file containing valid location data.
 - `requirements.txt`: Lists all Python dependencies required to run the notebook.
 - `.gitignore`: Specifies intentionally untracked files to ignore.
 
@@ -40,7 +43,7 @@ Ensure you have Python installed. It is recommended to use a virtual environment
 
 ## Usage
 
-Run the cells in the notebook to see how data quality checks are performed using Great Expectations.
+Run the cells in the notebook to see how data quality checks are performed using Great Expectations. The notebook reads `updated_trial_Dataset1.csv` and validates it against the conditions defined, using `cities.txt` for location data validation.
 
 ## License
 
