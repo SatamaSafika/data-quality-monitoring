@@ -1,0 +1,21 @@
+customer_connection_id,name,phone_number,email,customer_status,location,equipment_type,equipment_status,capacity,registration_timestamp,received_timestamp
+CC0001,Danuja Wibowo,+62 (52) 202 9748,haryantishania@example.com,active,,Fiber Modem,faulty,0,1/2/2025  13:00:00 AM,1/2/2025 1:06
+CC0002,Zalindra Maulana,+62 (0466) 541-1885,dadiwahyudin@example.org,pending,Kabupaten Sumbawa Barat,4G Router,unknown,1555,1/2/2025 0:50,1/2/2025 0:58
+CC0003,Emas Nasyidah,,ikinharyanti@example.net,pending,Kabupaten Banjar,Fiber Modem,unknown,1421,1/2/2025 0:40,1/2/2025 0:49
+CC0004,Azalea Yulianti,-5681,safitrikarta@example.org,pending,Kabupaten Bulukumba,Unknown Device,maintenance,4491,1/2/2025 0:30,1/2/2025 0:40
+CC0005,"Dalimin Prasasta, M.Farm",+62 (0173) 072-6575,gamanimanullang@example.com,unknown,Kabupaten Ketapang,4G Router,faulty,5362,1/2/2025 0:20,1/2/2025 0:21
+CC0006,"dr. Cinthia Mansur, S.IP",(083) 239-6369,orajata@example.net,pending,,5G Antenna,maintenance,1668,1/2/2025 0:10,1/2/2025 0:17
+CC0007,Titin Tarihoran,-1906,maidapratama@example.com,pending,Kabupaten S I A K,Fiber Modem,maintenance,1441,1/2/2025 0:00,1/2/2025 0:09
+CC0008,Siska Pudjiastuti,(0526) 650 7811,,unknown,Kabupaten Katingan,ABC,faulty,0,1/1/2025 23:50,1/1/2025 23:59
+CC0009,Vanya Saputra,+62 (44) 896-5619,empluk45@example.org,unknown,,5G Antenna,unknown,704,1/1/2025 23:40,1/1/2025 23:48
+CC0010,Eka Wulandari,+62 (068) 017 0373,usinaga@example.org,pending,Kabupaten Sorong Selatan,Unknown Device,faulty,1538,1/1/2025 23:30,1/1/2025 23:33
+CC0011,Bella Handayani,+62 (041) 910 4815,sihotangnalar@example.org,inactive,Kabupaten Jeruk Monyet,,unknown,1938,1/1/2025 23:20,1/1/2025  14:23:00 PM
+CC0012,"Ir. Nadine Rajata, S.I.Kom",+62 (0352) 769 6494,lanjarrajata@example.com,inactive,Kabupaten Banjarnegara,4G Router,active,1210,1/1/2025 23:10,1/1/2025 23:20
+CC0013,Kairav Simanjuntak,+62 (0646) 550 6647,aisyahwaskita@example.org,active,Kota Pekalongan,5G Antenna,faulty,1282,1/1/2026 23:00,1/1/2025 23:10
+CC0014,Nova Yuliarti,081vphrffk,ratna34@example.net,inactive,,,active,632,1/1/2025 22:50,1/1/2025 22:51
+CC0015,"Gada Nurdiyanti, S.T.",,manullangluthfi@example.com,inactive,Kota Batam,Fiber Modem,unknown,134,1/1/2025 22:40,1/1/2025 22:43
+CC0016,Sakura Saefullah,+62 (022) 717-0307,harimurtiwijaya@example.org,unknown,,4G Router,active,4581,1/1/2025 22:30,1/1/2025 22:31
+CC0016,Sakura Saefullah,+62 (022) 717-0307,harimurtiwijaya@example.org,unknown,,4G Router,active,4581,1/1/2025 22:30,1/1/2025 22:31
+CC0018,"Siska Ramadan, S.I.Kom",+62 (594) 161 7807,lsihombing@example.net,active,,Unknown Device,unknown,2870,1/1/2025 22:10,1/1/2025 22:12
+CC0002,Ganjaran Sinaga,080 641 3373,agustinaadityaexample.net,unknown,Kabupaten Sumbawa Barat,Fiber Modem,faulty,3299,1/1/2025 22:00,1/1/2025 22:01
+CC0020,Puti Gabriella Yuniar,+62 (0781) 397 1565,gara18@example.com,inactive,Kabupaten Asahan,Fiber Modem,,3540,1/1/2025 21:50,1/1/2025 21:56
