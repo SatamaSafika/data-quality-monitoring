@@ -1,3 +1,4 @@
 great_expectations==0.13.0
 pandas
-jupyter
+numpy
+psycopg2
