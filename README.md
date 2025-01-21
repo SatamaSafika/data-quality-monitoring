@@ -45,10 +45,6 @@ Ensure you have Python installed. It is recommended to use a virtual environment
 
 Run the cells in the notebook to see how data quality checks are performed using Great Expectations. The notebook reads `updated_trial_Dataset1.csv` and validates it against the conditions defined, using `cities.txt` for location data validation.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
